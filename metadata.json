@@ -1,0 +1,7 @@
+{
+  "name": "IRON SLATE",
+  "description": "A premium, minimalist strength training PWA focused on performance tracking and data clarity.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
